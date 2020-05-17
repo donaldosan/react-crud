@@ -1,4 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#CRUD React.js con react-hook-form y uuid
+
+screenshots
+
+![Caption for the picture.](/screenshots/1.png)
+
+![Caption for the picture.](/screenshots/2.png)
+
+![Caption for the picture.](/screenshots/3.png)
 
 ## Available Scripts
 
@@ -66,3 +75,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+more screenshots..
+
+![Caption for the picture.](/screenshots/4.png)
+
+![Caption for the picture.](/screenshots/5.png)
+
+![Caption for the picture.](/screenshots/6.png)
